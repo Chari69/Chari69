@@ -13,7 +13,7 @@ If you want to contact me or just follow me, feel free to do so:
 
 ## ⚡️ Quick Facts
 
-- 🔭 I am currently working on [Ptr-Classbot](https://github.com/ChariArch/Ptr-Classbot).
+- 🔭 I am currently working on [this](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 - 🎉 My favorite programming language is JavaScript.
 - 🎮 I'm a big fan of Nintendo and its games (especially Pokémon), if you want to play with me one day, add me!
 
