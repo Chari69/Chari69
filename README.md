@@ -37,7 +37,7 @@ If you want to contact me or just follow me, feel free to do so:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-![My Computer](https://img.shields.io/badge/Windows-HP_800_G2_(custom)-0078D6?style=flat-square&logo=windows&logoColor=white)
+![My Computer](https://img.shields.io/badge/Windows-HP_EliteDesk_800_G2_(custom)-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 # 💡 Some of my projects...
 
