@@ -7,9 +7,9 @@ I'm [**Chari**](https://chariarch.github.io), a hobbyist developer from
 
 If you want to contact me or just follow me, feel free to do so:
 
-[![YouTube](https://img.shields.io/badge/CharizardGam3rHD-darkred?style=flat-square&logo=youtube&logoColor=white)]()
-[![Twitter](https://img.shields.io/badge/@CharizardGam3r-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/CharizardGam3r)
-![Discord](https://img.shields.io/badge/@Chari69%231010-7289DA?style=flat-square&logo=discord&logoColor=white)
+[![YouTube](https://img.shields.io/badge/@Chari69-darkred?style=flat-square&logo=youtube&logoColor=white)]()
+[![Twitter](https://img.shields.io/badge/@jdchari-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/CharizardGam3r)
+![Discord](https://img.shields.io/badge/@Chari69-7289DA?style=flat-square&logo=discord&logoColor=white)
 
 ## ⚡️ Quick Facts
 
