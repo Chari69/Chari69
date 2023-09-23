@@ -3,19 +3,19 @@
 <img align='right' src='https://media.tenor.com/images/63873f69c224c1a1910a08f92557b9e4/tenor.gif' width='100'>
 
 I'm [**Chari**](https://chariarch.github.io), a hobbyist developer from
-🇻🇪 Venezuela. I mainly code in **JavaScript** with **NodeJS**, but I also use Python and many others! (I am always open to learn more things!)
+🇻🇪 Venezuela. I mainly code in **JavaScript** with **NodeJS**, but I also use C#, Python and many others! (I am always open to learn more things!)
 
 If you want to contact me or just follow me, feel free to do so:
 
-[![YouTube](https://img.shields.io/badge/@Chari69-darkred?style=flat-square&logo=youtube&logoColor=white)]()
-[![Twitter](https://img.shields.io/badge/@jdchari-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/CharizardGam3r)
-![Discord](https://img.shields.io/badge/@Chari69-7289DA?style=flat-square&logo=discord&logoColor=white)
+[![YouTube](https://img.shields.io/badge/@Chari69-darkred?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@Chari69)
+[![Twitter](https://img.shields.io/badge/@jdchari-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/jdchari)
+![Discord](https://img.shields.io/badge/@chari69-7289DA?style=flat-square&logo=discord&logoColor=white)
 
 ## ⚡️ Quick Facts
 
-- 🔭 I am currently working on [this](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+<!-- - 🔭 I am currently working on [this](https://www.youtube.com/watch?v=dQw4w9WgXcQ). -->
 - 🎉 My favorite programming language is JavaScript.
-- 🎮 I'm a big fan of Nintendo and its games (especially Pokémon), if you want to play with me one day, add me!
+- 🎮 I'm a big fan of Nintendo and its games (especially Pokémon), if you want to play with me one day, contact me!
 
 ![Nintendo Switch](https://img.shields.io/badge/Nintendo_Switch-D12228?style=flat-square&logo=nintendo-switch&logoColor=white)
 ![N3DS](https://img.shields.io/badge/3DS:_2895--8178--3514-D12228?style=flat-square&logo=nintendo-3ds&logoColor=white)
@@ -35,15 +35,15 @@ If you want to contact me or just follow me, feel free to do so:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-![My Computer](https://img.shields.io/badge/Windows-HP_EliteDesk_800_G2_(custom)-0078D6?style=flat-square&logo=windows&logoColor=white)
+![My Computer](https://img.shields.io/badge/Windows-i5_6th_Gen_%7C_RX_580_%7C_16GB_RAM-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 # 💡 Some of my projects...
 
-- [**CPPlaysPokemon**](https://cdn.baomitu.com): A simple and easy to use "Twitch Plays Pokemon" bot only for Windows.
-- [**PokeRoms-Emulator**](https://github.com/ChariArch/PokeRoms-Emulator): A collection of emulators based on WinDSPro to which I planned to add a module to download roms, I never finished it 100% and probably never will since it was linked to another project.
-- [**PSw4**](https://github.com/ChariArch/PSw4): Work in progress multipurpose discord bot.
+- [**CPPlaysPokemon**](https://github.com/ChariArch/TwitchPlaysPokemon): A simple and easy to use "Twitch Plays Pokemon" bot only for Windows.
+- [**PokeRoms-Emulator**](https://github.com/ChariArch/PokeRoms-Emulator): A collection of emulators based on WinDSPro to which I planned to add a module to download roms, I never finished it 100% and probably never will since it was linked to another project for which I no longer have the source code.
+- [**PSw4**](https://github.com/ChariArch/PSw4): My custom multipurpose discord bot. I have not updated it for quite some time, and I understand that discord updated their API, so it may be obsolete.
 
 ---
 
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=ChariArch&show_icons=true&count_private=true" alt="spiderpig86" />
+<img src="https://github-readme-stats.vercel.app/api?username=ChariArch&show_icons=true&count_private=true" alt="ChariArch Stats" />
