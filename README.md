@@ -2,7 +2,7 @@
 
 <img align='right' src='https://media.tenor.com/images/63873f69c224c1a1910a08f92557b9e4/tenor.gif' width='100'>
 
-I'm [**Chari**](https://chariarch.github.io), a hobbyist developer from
+I'm [**Chari**](https://chari69.github.io), a hobbyist developer from
 🇻🇪 Venezuela. I mainly code in **JavaScript** with **NodeJS**, but I also use C#, Python and many others! (I am always open to learn more things!)
 
 If you want to contact me or just follow me, feel free to do so:
@@ -39,11 +39,11 @@ If you want to contact me or just follow me, feel free to do so:
 
 # 💡 Some of my projects...
 
-- [**CPPlaysPokemon**](https://github.com/ChariArch/TwitchPlaysPokemon): A simple and easy to use "Twitch Plays Pokemon" bot only for Windows.
-- [**PokeRoms-Emulator**](https://github.com/ChariArch/PokeRoms-Emulator): A collection of emulators based on WinDSPro to which I planned to add a module to download roms, I never finished it 100% and probably never will since it was linked to another project for which I no longer have the source code.
-- [**PSw4**](https://github.com/ChariArch/PSw4): My custom multipurpose discord bot. I have not updated it for quite some time, and I understand that discord updated their API, so it may be obsolete.
+- [**CPPlaysPokemon**](https://github.com/chari69/TwitchPlaysPokemon): A simple and easy to use "Twitch Plays Pokemon" bot only for Windows.
+- [**PokeRoms-Emulator**](https://github.com/chari69/PokeRoms-Emulator): A collection of emulators based on WinDSPro to which I planned to add a module to download roms, I never finished it 100% and probably never will since it was linked to another project for which I no longer have the source code.
+- [**PSw4**](https://github.com/chari69/PSw4): My custom multipurpose discord bot. I have not updated it for quite some time, and I understand that discord updated their API, so it may be obsolete.
 
 ---
 
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=ChariArch&show_icons=true&count_private=true" alt="ChariArch Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=chari69&show_icons=true&count_private=true" alt="chari69 Stats" />
