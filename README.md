@@ -33,9 +33,8 @@ If you want to contact me or just follow me, feel free to do so:
 
 Most of my **public** stuff here is outdated/old or i'm not working in it. Maybe soon I will open source some of my most recent projects.
 
+- [**PSw4**](https://github.com/chari69/PSw4): My own custom multipurpose discord bot. Currently i'm working on it.
 - [**TPP**](https://github.com/chari69/TwitchPlaysPokemon): A simple and easy to use "Twitch Plays Pokemon" bot only for Windows.
-- [**PokeRoms-Emulator**](https://github.com/chari69/PokeRoms-Emulator): A collection of emulators based on WinDSPro to which I planned to add a module to download roms, I never finished it 100% and probably never will since it was linked to another project for which I no longer have the source code.
-- [**PSw4**](https://github.com/chari69/PSw4): My own custom multipurpose discord bot. I have not updated it for quite some time, and I understand that discord updated their API, so it may be obsolete.
 
 ---
 
