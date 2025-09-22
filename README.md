@@ -35,6 +35,7 @@ Most of my **public** stuff here is outdated/old or i'm not working in it. Maybe
 
 - [**PSw4**](https://github.com/chari69/PSw4): My own custom multipurpose discord bot. Currently i'm working on it.
 - [**TPP**](https://github.com/chari69/TwitchPlaysPokemon): A simple and easy to use "Twitch Plays Pokemon" bot only for Windows.
+- [**LinkDB**](https://github.com/chari69/LinkDB): Terminal-based program to save URLs (bookmarks) and categorize with tags.
 
 ---
 
